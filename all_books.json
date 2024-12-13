@@ -1,0 +1,22 @@
+[
+    {
+        "title": "bangla 1",
+        "author": "humayun",
+        "isbn": 46953,
+        "year": 2014,
+        "price": 120,
+        "quantity": 5,
+        "bookAddedAt": "13-12-2024 19:24:18",
+        "bookLastUpdatedAt": "13-12-2024 19:36:19"
+    },
+    {
+        "title": "english",
+        "author": "aristatal",
+        "isbn": 47855,
+        "year": 2010,
+        "price": 125,
+        "quantity": 5,
+        "bookAddedAt": "13-12-2024 20:05:08",
+        "bookLastUpdatedAt": ""
+    }
+]
